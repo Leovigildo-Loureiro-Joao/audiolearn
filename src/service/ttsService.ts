@@ -1,7 +1,7 @@
 // services/ttsService.ts
 const TTS_API_URL = process.env.REACT_APP_TTS_API_URL || 'https://api.example.com/tts';
 
-export interface TTSRequest {sk_d2257a7586e17086e66f5e1153525ec3621777c80b9bb46c
+export interface TTSRequest {
   text: string;
   voice?: string;
   speed?: number;
