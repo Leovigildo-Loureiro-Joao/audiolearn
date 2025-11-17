@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-top-image {
+  background-image: url('./assets/header.jpg');
+}
+
+.bg-bottom-image {
+  background-image: url('./assets/footer.jpg');
+}
