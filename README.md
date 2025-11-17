@@ -4,10 +4,10 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)  
-![React](https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=for-the-badge&logo=springboot)  
-![React](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)![React](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)  ![React](https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=for-the-badge&logo=springboot) 
+ 
+
 
 **Transforme textos em experiências de áudio imersivas para aprender idiomas**
 
